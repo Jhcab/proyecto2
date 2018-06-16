@@ -1,0 +1,46 @@
+
+*{
+		margin:0px;
+		padding:0px;
+		color:white;
+		font-family:arial;
+	}
+	
+	div #img
+	{
+		width:270px;
+		height:200px;
+		
+	}
+	
+	div#info
+	{
+		position:absolute;
+		overflow:hidden;
+		width:270px;
+		height:200px;
+		background-color: rgba(253, 254, 254  ,0.8);
+		-webkit-transition:opacity 0.4s;
+		opacity:0;
+	}
+	div#img:hover div#info
+	{
+		opacity:1;
+	}
+	
+	p#headline
+	{
+		position:absolute;
+		top:15px;
+		-webkit-transition:margin 0.4s;
+		margin-left:-70px;
+		font-size:21px;
+		color:black;
+		
+	}
+	
+	div #img:hover p#headline
+	{
+		margin-left:90px;
+	}
+	
