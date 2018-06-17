@@ -23,7 +23,7 @@
 	{
 		position:absolute;
 		overflow:hidden;
-		width:33.33%;
+		width:22.3%;
 		height:30vh;
 		min-height:80px;
 		background-color: rgba(253, 254, 254  ,0.8);
@@ -44,7 +44,7 @@
 		position:absolute;
 		top:15px;
 		-webkit-transition:margin 0.4s;
-		margin-left:-70px;
+		margin-left:-10%;
 		font-size:21px;
 		color:black;
 		
@@ -52,6 +52,6 @@
 	
 	div #img:hover p#headline
 	{
-		margin-left:90px;
+		margin-left:30%;
 	}
 	
