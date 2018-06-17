@@ -1,9 +1,32 @@
 
+	.contgrande
+	{
+		width:67%;
+		margin-left:18.5%;
+		height:auto;
+		margin-bottom:4px;
+		position: relative; 
+		top:-4px;
+		
+	}
 	.contmedio
 	{
-		width:810px;
-		margin-left:250px;
-		height:550px;
+		width:67%;
+		margin-left:18.5%;
+		height:auto;
 		margin-bottom:4px;
+		position: relative; 
+		top:-4px;
 	}
-	
+@media screen and (min-width:300px) and (max-width:800px) {
+		.contgrande
+	{
+		width:100%;
+		margin-left:0;
+	}
+			.contmedio
+	{
+		width:100%;
+		margin-left:0;
+	}
+}

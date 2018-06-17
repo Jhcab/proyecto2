@@ -6,10 +6,16 @@
 		font-family:arial;
 	}
 	
+	
+	
 	div #img
 	{
-		width:270px;
-		height:200px;
+		width:33.3%;
+		height:30vh;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		min-height:80px;
+
 		
 	}
 	
@@ -17,12 +23,17 @@
 	{
 		position:absolute;
 		overflow:hidden;
-		width:270px;
-		height:200px;
+		width:33.33%;
+		height:30vh;
+		min-height:80px;
 		background-color: rgba(253, 254, 254  ,0.8);
 		-webkit-transition:opacity 0.4s;
 		opacity:0;
 	}
+	
+
+	
+	
 	div#img:hover div#info
 	{
 		opacity:1;
