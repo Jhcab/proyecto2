@@ -1,5 +1,7 @@
-
-
+#menu{ width:100%; height:40px; margin:0 auto;}
+#menu ul{list-style:none}
+#menu ul li{display:inline; margin:0 45px 0 45px;}
+#menu a{color:black}
 	
 		.inicio
 	{
