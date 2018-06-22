@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <title>Chivis</title>
-  <link rel="stylesheet" type="text/css" href="estilo.css">
-  <link rel="stylesheet" type="text/css" href="galeria.css">
-  <link rel="stylesheet" type="text/css" href="presentacion.css">
-  <link href="styles.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="CSS/estilo.css">
+  <link rel="stylesheet" type="text/css" href="CSS/galeria.css">
+  <link rel="stylesheet" type="text/css" href="CSS/presentacion.css">
+  <link rel="stylesheet" type="text/css" href="CSS/styles.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" type="text/css" href="fotogaleria.css">
+		<link rel="stylesheet" type="text/css" href="CSS/fotogaleria.css">
 		<script type="text/javascript" src="animado.js"></script>
 		
 		
